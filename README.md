@@ -31,7 +31,7 @@ The virtual screening successfully identified highly potent candidates with exce
 * **Glide Score:** `-10.097 kcal/mol`
 * **Interaction Profile:** The ligand demonstrates a robust binding network, including a strong salt bridge with **ASP A:18**, a pi-cation interaction with **LYS A:79**, and multiple hydrogen bonds with **LYS A:79, SER A:80, LYS B:279, and SER B:280**. It is further stabilized by a hydrophobic pocket (VAL, ALA, ILE, PRO).
 
-![NSC633091 Interactions](images/NSC633091_interactions.png)
+![NSC633091 Interactions](images/image.png)
 
 ### Lead Compound 2: NSC618827 (Target: VapC - 6NKL)
 * **Glide Score:** `-9.609 kcal/mol`
