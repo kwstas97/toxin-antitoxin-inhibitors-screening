@@ -44,4 +44,5 @@ The virtual screening successfully identified highly potent candidates with exce
 The raw structural data used in this study (protein targets) are available in the repository. You can access the prepared PDB files here:
 * [MazF Toxin - 1UB4](data/1UB4.pdb)
 * [VapC Toxin - 6NKL](data/6NKL.pdb)
+
 The discovery of these lead compounds provides a strong foundation for developing novel antibacterial adjuvants. Future directions include running Molecular Dynamics (MD) simulations to evaluate the long-term thermodynamic stability of the protein-ligand complexes, followed by in-vitro validation assays.
