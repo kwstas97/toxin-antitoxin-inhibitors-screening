@@ -37,7 +37,7 @@ The virtual screening successfully identified highly potent candidates with exce
 * **Glide Score:** `-9.609 kcal/mol`
 * **Interaction Profile:** Exhibits strong electrostatic interactions (salt bridge) with **LYS 46** via its phosphate groups. Key hydrogen bonds are formed with **ASN 97, ASN 98, ASP 99, and GLU 43**, while the non-polar segment fits perfectly into a hydrophobic socket (LEU 44, LEU 64, ILE 61, ILE 102).
 
-![NSC618827 Interactions](images/NSC618827_interactions.png)
+![NSC618827 Interactions](images/image2.png)
 
 ## 🚀 Future Perspectives
 The discovery of these lead compounds provides a strong foundation for developing novel antibacterial adjuvants. Future directions include running Molecular Dynamics (MD) simulations to evaluate the long-term thermodynamic stability of the protein-ligand complexes, followed by in-vitro validation assays.
