@@ -1,4 +1,4 @@
-# toxin-antitoxin-inhibitors-screening
+# Toxin-antitoxin-inhibitors-screening
 # Structure-Based Drug Design (SBDD): In-Silico Discovery of Toxin-Antitoxin Inhibitors
 
 ## 📌 Executive Summary
